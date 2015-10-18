@@ -1,0 +1,3 @@
+Project report for Unix Systems Programming	on Online Scrabble (6th Semester, Jan-May 2014), taken by Prof. Srishail Chari at PES Institute of Technology, Bangalore.
+
+The Online Scrabble application deals with multiple client processes communicating with a server process that involves the use of several IPC mechanisms. The application also requires the use of semaphores for synchronization process. Hence, this project design intends to illustrate the importance of incorporating IPC structures, synchronizing mechanisms and other data structures that is an integral part of the application. The Unix Programming concepts are put to efficient design of the project.
